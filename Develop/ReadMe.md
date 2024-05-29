@@ -1,16 +1,19 @@
-# Juan
+# ReadME Generator
+
+## License
+  ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
+
+## Description
+    this is a test of the ReadMe generator using Node.js
     
-    ## Description
-    Parra
+## Installation
+    npm install 
     
-    ## Installation
-    1025
+## Usage
+    use to create ReadMe files for projects. Added is the utility to add Github  licenses
     
-    ## Usage
-    yes
+## Contributions 
+    Juan Parra
     
-    ## Contributions 
-    no
-    
-    ## Test Instructions
-    
+## Test Instructions
+    run the program
