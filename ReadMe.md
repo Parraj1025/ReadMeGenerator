@@ -18,4 +18,3 @@
     asdf
 ## Questions:
     Projects: [GITHUB](https://github.com/asdf)
-    Email: asdf
