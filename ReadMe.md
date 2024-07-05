@@ -4,13 +4,13 @@
   ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-    use this app to make creating your readMe files easy and quick
+    use this app to easily create readMe files
     
 ## Installation
     no need
     
 ## Usage
-    node readmegenerator.js
+    use this on every project. just run node readmegenerator.js
     
 ## Contributions 
     Juan Parra
@@ -20,4 +20,4 @@
 ## Questions:
 [Link to Github profile](https://github.com/Parraj1025)
     
-Email: test@testemail.com
+Email: test@testmail.com

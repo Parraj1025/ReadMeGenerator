@@ -57,6 +57,11 @@ const questions = [
         name: 'email',
         type: "input",
         message: 'enter your email'
+    },
+    {
+        name: 'name',
+        type: 'input',
+        message: 'name your readMe file'
     }
 ]
 
@@ -106,7 +111,7 @@ function init() {
 
     const readmecontent = README(content[0])
     
-    fs.writeFile('ReadMe.md',readmecontent, (err) => 
+    fs.writeFile(`${answers.name}.md`,readmecontent, (err) => 
         err ? console.log(err) : console.log('success')
     )
     // console.log(content)
