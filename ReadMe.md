@@ -17,5 +17,5 @@
 ## Test Instructions
     asdf
 ## Questions:
-    ![GITHUB](https://github.com/asdf)
+    Projects: [GITHUB](https://github.com/asdf)
     Email: asdf
