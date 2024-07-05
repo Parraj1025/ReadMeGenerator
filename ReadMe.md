@@ -18,5 +18,5 @@
 ## Test Instructions
     node readmegenerator.js
 ## Questions:
-    [Link to Github profile](https://github.com/Parraj1025)
+    ![Link to Github profile](https://github.com/Parraj1025)
     Email: Parrajuan1025@gmail.com
