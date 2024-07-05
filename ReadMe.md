@@ -1,23 +1,23 @@
-# test
+# ReadMe Generator
 
 ## License
   ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-    test
+    this is an app to create readme files for projects using Markdown
     
 ## Installation
     undefined
     
 ## Usage
-    test
+    node readmegenerator.js
     
 ## Contributions 
-    testg
+    Juan Parra
     
 ## Test Instructions
-    test
+    node readmegenerator.js
 ## Questions:
-[Link to Github profile](https://github.com/test)
+[Link to Github profile](https://github.com/Parraj1025)
     
-Email: tes
+Email: test@testemail.com
