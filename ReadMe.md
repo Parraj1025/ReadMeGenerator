@@ -1,13 +1,13 @@
-# ReadMe Generator
+# readMe Generator
 
 ## License
   ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-    this is an app to create readme files for projects using Markdown
+    use this app to make creating your readMe files easy and quick
     
 ## Installation
-    undefined
+    no need
     
 ## Usage
     node readmegenerator.js

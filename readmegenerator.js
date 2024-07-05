@@ -28,7 +28,7 @@ const questions = [
         message: 'Enter a project description'
     },
     {
-        name: 'instructions',
+        name: 'install',
         type: 'input' ,
         message:'Installation instructions?'
     },
@@ -75,7 +75,7 @@ ${content[1]}
     ${answers.description}
     
 ## Installation
-    ${answers.installation}
+    ${answers.install}
     
 ## Usage
     ${answers.usage}
