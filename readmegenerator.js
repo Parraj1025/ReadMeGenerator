@@ -25,28 +25,38 @@ const questions = [
     {
         name: 'description',
         type: 'input',
-        message: 'Enter project description'
+        message: 'Enter a project description'
     },
     {
-        name: 'installation',
+        name: 'instructions',
         type: 'input' ,
         message:'Installation instructions?'
     },
     {
         name: 'usage',
         type: 'input',
-        message: 'enter usage info'
+        message: 'Enter usage information'
     },
     {
         name: 'contribution',
         type: 'input',
-        message: 'Enter contributions'
+        message: 'Contributions'
     },
     {
         name: 'test',
         type: 'input',
-        message: 'enter test instructions',
+        message: 'Enter test instructions',
        
+    },
+    {
+        name: 'username',
+        type: 'input',
+        message: 'Enter Github Username'
+    },
+    {
+        name: 'email',
+        type: "input",
+        message: 'enter your email'
     }
 ]
 
@@ -74,7 +84,10 @@ ${content[1]}
     ${answers.contribution}
     
 ## Test Instructions
-    ${answers.test}`
+    ${answers.test}
+## Questions:
+    Link to Github profile: https://github.com/${answers.username}
+    Email: ${answers.email}`
 
 // TODO: Create a function to initialize app
 function init() {

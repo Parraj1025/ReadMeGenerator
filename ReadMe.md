@@ -1,19 +1,22 @@
-# JuN
+# ReadMe Generator
 
 ## License
-  ![Static Badge](https://img.shields.io/badge/License-MPL2.0-blue)
+  ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-    TEST
+    this is an app for creating readMe files ready for Github
     
 ## Installation
-    TES
+    undefined
     
 ## Usage
-    TES
+    use this for all your projects
     
 ## Contributions 
-    TEST
+    Juan Parra
     
 ## Test Instructions
-    TEST
+    node readmegenerator.js
+## Questions:
+    Link to Github profile: https://github.com/Parraj1025
+    Email: Parrajuan1025@gmail.com
