@@ -86,7 +86,7 @@ ${content[1]}
 ## Test Instructions
     ${answers.test}
 ## Questions:
-    [Link to Github profile](https://github.com/${answers.username})
+    ![Link to Github profile](https://github.com/${answers.username})
     Email: ${answers.email}`
 
 // TODO: Create a function to initialize app
