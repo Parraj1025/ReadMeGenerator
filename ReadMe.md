@@ -1,23 +1,23 @@
-# readMe Generator
+# LogoMker
 
 ## License
   ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-    use this app to easily create readMe files
+    this is a CLI application used to generate SVG logos
     
 ## Installation
-    no need
+    download package, locate file using preffered terminal, run npm i to download required dependencies
     
 ## Usage
-    use this on every project. just run node readmegenerator.js
+    in your terminal use command npm start
     
 ## Contributions 
-    Juan Parra
+    Juan Parra (2024)
     
 ## Test Instructions
-    node readmegenerator.js
+    in your terminal use command npm test
 ## Questions:
 [Link to Github profile](https://github.com/Parraj1025)
     
-Email: test@testmail.com
+Email: Parrajuan1025@gmail.com
